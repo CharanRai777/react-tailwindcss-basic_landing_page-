@@ -3,7 +3,7 @@ import logo from '../assets/images/logo.png';
 
 const Nav = () => {
     return (
-      <nav className="w-full sticky  top-0 flex justify-between items-center p-4  bg-blue-900 border border-gray-950">
+      <nav className="w-full sticky  top-0 flex justify-between items-center p-4  bg-blue-400 border border-gray-950">
         <div className="flex items-center">
           <span className="italic text-3xl text-white ml-10">fundrise</span>
         </div>
